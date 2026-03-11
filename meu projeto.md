@@ -1,0 +1,1 @@
+Estacione em um lugar nivelado e firme.
