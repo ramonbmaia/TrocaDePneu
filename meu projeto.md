@@ -14,3 +14,7 @@ Atenção: Apenas afrouxe (meia volta), não retire os parafusos agora.
 
 Posicione o macaco sob a parte metálica do chassi, próximo à roda furada. Quase todo carro tem uma pequena marca ou entalhe indicando o local correto.
 Acione o macaco até que o pneu furado esteja a cerca de 5 a 10 cm do chão.
+
+Remova os parafusos completamente.
+Retire o pneu furado e coloque o estepe no lugar, alinhando os furos.
+Coloque os parafusos de volta e aperte-os com a mão até onde conseguir.
