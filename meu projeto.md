@@ -21,3 +21,8 @@ Coloque os parafusos de volta e aperte-os com a mão até onde conseguir.
 
 Desça o carro lentamente até o pneu tocar o solo e retire o macaco.
 Dê o aperto final com a chave de roda seguindo um padrão em "X" (aperte um, depois o que está no lado oposto). Isso garante que a roda assente de forma uniforme.
+
+Calibragem: Lembre-se de calibrar o estepe regularmente. De nada adianta ter um pneu reserva murcho.
+Velocidade: Estepes temporários (aqueles fininhos) geralmente têm limite de velocidade de 80 km/h.
+Reparo: Vá ao borracheiro o quanto antes para consertar o pneu original.
+Importante: Se você estiver em uma rodovia perigosa ou sem acostamento, priorize sua vida. Chame a assistência do seguro ou da concessionária da via.
