@@ -11,3 +11,6 @@ Chave de roda.
 Encaixe a chave de roda e gire no sentido anti-horário.
 Se estiver muito duro, use o peso do corpo (pise na chave com cuidado).
 Atenção: Apenas afrouxe (meia volta), não retire os parafusos agora.
+
+Posicione o macaco sob a parte metálica do chassi, próximo à roda furada. Quase todo carro tem uma pequena marca ou entalhe indicando o local correto.
+Acione o macaco até que o pneu furado esteja a cerca de 5 a 10 cm do chão.
