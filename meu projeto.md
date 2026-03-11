@@ -7,3 +7,7 @@ Pegue o que você vai precisar no porta-malas:
 Pneu reserva (estepe).
 Macaco.
 Chave de roda.
+
+Encaixe a chave de roda e gire no sentido anti-horário.
+Se estiver muito duro, use o peso do corpo (pise na chave com cuidado).
+Atenção: Apenas afrouxe (meia volta), não retire os parafusos agora.
