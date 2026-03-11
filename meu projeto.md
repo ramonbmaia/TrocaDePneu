@@ -18,3 +18,6 @@ Acione o macaco até que o pneu furado esteja a cerca de 5 a 10 cm do chão.
 Remova os parafusos completamente.
 Retire o pneu furado e coloque o estepe no lugar, alinhando os furos.
 Coloque os parafusos de volta e aperte-os com a mão até onde conseguir.
+
+Desça o carro lentamente até o pneu tocar o solo e retire o macaco.
+Dê o aperto final com a chave de roda seguindo um padrão em "X" (aperte um, depois o que está no lado oposto). Isso garante que a roda assente de forma uniforme.
